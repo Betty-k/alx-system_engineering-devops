@@ -1,2 +1,2 @@
 #!/bin/bash
-ggg
+chmod 754 hello
